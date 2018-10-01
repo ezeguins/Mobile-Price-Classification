@@ -37,4 +37,4 @@ wifi	- Has wifi or not
 blue	- Has bluetooth or not
 mobile_wt	- Weight of mobile phone
 talk_time	- longest time that a single battery charge will last when you are
-price_range	- This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
+price_range	- This is the target variable with value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost)
